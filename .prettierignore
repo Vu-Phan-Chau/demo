@@ -1,0 +1,10 @@
+.local
+.output.js
+/dist/*
+/public/*
+/build/*
+
+**/*.svg
+**/*.sh
+
+README.md
